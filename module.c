@@ -1,4 +1,4 @@
-int a = 0; // Thumb
+
 int b = 0; // Index
 int c = 0; // Middle
 int d = 0; // Ring
@@ -17,13 +17,11 @@ void setup() {
 
 void loop() {
   // Read flex sensor values
-  a = analogRead(A0); // Thumb
   b = analogRead(A1); // Index
   c = analogRead(A2); // Middle
   d = analogRead(A3); // Ring
   e = analogRead(A4); // Little
 
-  Serial.print("Thumb: "); Serial.print(a);
   Serial.print(" Index: "); Serial.print(b);
   Serial.print(" Middle: "); Serial.print(c);
   Serial.print(" Ring: "); Serial.print(d);
@@ -31,12 +29,12 @@ void loop() {
 
   // Gesture recognition for letters A-Z
   // A: All fingers fully bent (ASL 'A')
-if (b < 70 && c < 70 && d < 70 && e < 70) {
+if (b < 500 && c < 500 && d < 500 && e < 500) {
   Serial.println("A");
 }
 
 // B: All fingers straight (ASL 'B')
-else if (b > 200 && c > 200 && d > 200 && e > 200) {
+else if (b > 500 && c > 500 && d > 500 && e > 500) {
   Serial.println("B");
 }
 

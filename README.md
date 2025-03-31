@@ -49,3 +49,10 @@
 - _Thumb column removed as per your code's logic_
 
 ![alt text](<63613b20-cea6-43c2-958f-5f31ed29ad60(1).png>)
+
+notes:
+
+- while uploading the code unplug 0 and 1 of blutooth,
+- use the app provided, first connect via blutooth
+- can change the code accoringly and reupload as you need
+  ![alt text](<WhatsApp Image 2025-03-31 at 22.50.39(1).jpeg>) ![alt text](<WhatsApp Image 2025-03-31 at 22.50.42(1).jpeg>) ![alt text](<WhatsApp Image 2025-03-31 at 22.50.41.jpeg>)
