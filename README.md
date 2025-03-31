@@ -12,43 +12,40 @@
 
 ### **ISL Alphabets & Corresponding Finger Movements**
 
-| Letter | Thumb      | Index Finger                   | Middle Finger      | Ring Finger        | Little Finger      |
-| ------ | ---------- | ------------------------------ | ------------------ | ------------------ | ------------------ |
-| **A**  | Straight   | **Fully Bent**                 | **Fully Bent**     | **Fully Bent**     | **Fully Bent**     |
-| **B**  | Straight   | **Straight**                   | **Straight**       | **Straight**       | **Straight**       |
-| **C**  | Curved     | **Partially Bent**             | **Partially Bent** | **Partially Bent** | **Partially Bent** |
-| **D**  | Straight   | **Straight**                   | **Fully Bent**     | **Fully Bent**     | **Fully Bent**     |
-| **E**  | Straight   | **Fully Bent**                 | **Fully Bent**     | **Fully Bent**     | **Fully Bent**     |
-| **F**  | Straight   | **Fully Bent**                 | **Fully Bent**     | **Fully Bent**     | **Straight**       |
-| **G**  | Straight   | **Fully Bent**                 | **Fully Bent**     | **Straight**       | **Straight**       |
-| **H**  | Straight   | **Straight**                   | **Straight**       | **Fully Bent**     | **Fully Bent**     |
-| **I**  | Straight   | **Fully Bent**                 | **Fully Bent**     | **Fully Bent**     | **Straight**       |
-| **J**  | Straight   | **Straight (move in J shape)** | **Straight**       | **Straight**       | **Straight**       |
-| **K**  | Straight   | **Straight**                   | **Fully Bent**     | **Straight**       | **Straight**       |
-| **L**  | Straight   | **Straight**                   | **Fully Bent**     | **Fully Bent**     | **Fully Bent**     |
-| **M**  | Straight   | **Fully Bent**                 | **Fully Bent**     | **Fully Bent**     | **Straight**       |
-| **N**  | Straight   | **Fully Bent**                 | **Fully Bent**     | **Straight**       | **Straight**       |
-| **O**  | Curved     | **Curved**                     | **Curved**         | **Curved**         | **Curved**         |
-| **P**  | Straight   | **Straight**                   | **Fully Bent**     | **Fully Bent**     | **Straight**       |
-| **Q**  | Curved     | **Straight**                   | **Fully Bent**     | **Straight**       | **Straight**       |
-| **R**  | Straight   | **Fully Bent**                 | **Fully Bent**     | **Straight**       | **Straight**       |
-| **S**  | Straight   | **Fully Bent**                 | **Fully Bent**     | **Fully Bent**     | **Fully Bent**     |
-| **T**  | Straight   | **Fully Bent**                 | **Fully Bent**     | **Straight**       | **Straight**       |
-| **U**  | Straight   | **Straight**                   | **Straight**       | **Fully Bent**     | **Fully Bent**     |
-| **V**  | Straight   | **Straight**                   | **Straight**       | **Fully Bent**     | **Straight**       |
-| **W**  | Straight   | **Straight**                   | **Straight**       | **Straight**       | **Straight**       |
-| **X**  | Straight   | **Fully Bent**                 | **Straight**       | **Straight**       | **Straight**       |
-| **Y**  | **Curved** | **Fully Bent**                 | **Straight**       | **Straight**       | **Curved**         |
-| **Z**  | Straight   | **Straight (move in Z shape)** | **Straight**       | **Straight**       | **Straight**       |
+| Letter | Index Finger       | Middle Finger      | Ring Finger        | Little Finger      |
+| ------ | ------------------ | ------------------ | ------------------ | ------------------ |
+| **A**  | **Fully Bent**     | **Fully Bent**     | **Fully Bent**     | **Fully Bent**     |
+| **B**  | **Straight**       | **Straight**       | **Straight**       | **Straight**       |
+| **C**  | **Partially Bent** | **Partially Bent** | **Partially Bent** | **Partially Bent** |
+| **D**  | **Straight**       | **Fully Bent**     | **Fully Bent**     | **Fully Bent**     |
+| **E**  | **Fully Bent**     | **Straight**       | **Straight**       | **Straight**       |
+| **F**  | **Fully Bent**     | **Fully Bent**     | **Straight**       | **Straight**       |
+| **G**  | **Fully Bent**     | **Straight**       | **Straight**       | **Fully Bent**     |
+| **H**  | **Straight**       | **Fully Bent**     | **Fully Bent**     | **Straight**       |
+| **I**  | **Fully Bent**     | **Fully Bent**     | **Fully Bent**     | **Straight**       |
+| **J**  | **Straight**       | **Straight**       | **Straight**       | **Fully Bent**     |
+| **K**  | **Fully Bent**     | **Straight**       | **Fully Bent**     | **Straight**       |
+| **L**  | **Partially Bent** | **Straight**       | **Straight**       | **Straight**       |
+| **M**  | **Straight**       | **Straight**       | **Partially Bent** | **Partially Bent** |
+| **N**  | **Straight**       | **Partially Bent** | **Partially Bent** | **Straight**       |
+| **O**  | **Partially Bent** | **Straight**       | **Straight**       | **Partially Bent** |
+| **P**  | **Straight**       | **Fully Bent**     | **Straight**       | **Straight**       |
+| **Q**  | **Straight**       | **Straight**       | **Straight**       | **Partially Bent** |
+| **R**  | **Partially Bent** | **Partially Bent** | **Straight**       | **Straight**       |
+| **S**  | **Partially Bent** | **Straight**       | **Partially Bent** | **Partially Bent** |
+| **T**  | **Partially Bent** | **Fully Bent**     | **Partially Bent** | **Partially Bent** |
+| **U**  | **Straight**       | **Straight**       | **Fully Bent**     | **Fully Bent**     |
+| **V**  | **Straight**       | **Straight**       | **Partially Bent** | **Partially Bent** |
+| **W**  | **Straight**       | **Partially Bent** | **Partially Bent** | **Partially Bent** |
+| **X**  | **Partially Bent** | **Partially Bent** | **Partially Bent** | **Partially Bent** |
+| **Y**  | **Partially Bent** | **Straight**       | **Partially Bent** | **Straight**       |
+| **Z**  | **Partially Bent** | **Partially Bent** | **Straight**       | **Partially Bent** |
 
----
+**Key**:
 
-### **How to Use This Table:**
-
-- Check the **bending state** for each finger.
-- **Update thresholds** in the Arduino code to match the actual sensor readings.
-- **Fine-tune** based on real-world testing.
-
----
+- **Fully Bent**: Finger sensor value < 70 (180° bend)
+- **Partially Bent**: Finger sensor value < 150 (90° bend)
+- **Straight**: Finger sensor value > 200 (0° bend)
+- _Thumb column removed as per your code's logic_
 
 ![alt text](<63613b20-cea6-43c2-958f-5f31ed29ad60(1).png>)
