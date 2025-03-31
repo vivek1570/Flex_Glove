@@ -1,4 +1,4 @@
-Here’s the **finger movement breakdown** for each alphabet in **Indian Sign Language (ISL)** based on your flex sensor values.
+## FlexGlove: Arduino-Based Sign Language to Speech Converter
 
 ---
 
